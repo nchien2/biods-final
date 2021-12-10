@@ -9,3 +9,5 @@ This Github repository contains all models implemented for our CS271 Final Proje
 6) An early-fusion Transformer model
 
 We used the MERFISH dataset, specially mouse1sample1.hdf5. Periphery scores were calculated and given to us by our external mentors at the Salzman lab. 
+
+Code written by: Ayushi Tandel and Nathaniel Chien
